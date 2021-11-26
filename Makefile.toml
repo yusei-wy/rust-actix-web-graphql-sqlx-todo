@@ -1,0 +1,5 @@
+[tasks.WATCH]
+descriptoin = 'watch'
+script = ['''
+cargo watch -x 'run'
+''']
